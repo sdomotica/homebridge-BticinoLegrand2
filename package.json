@@ -1,0 +1,45 @@
+{
+  "name": "homebridge-BticinoLegrand2",
+  "version": "0.0.7",
+  "description": "A homebridge plugin for MyHome integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdomotica/homebridge-BticinoLegrand2.git"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "author": {
+    "name": "Sandro Di Marco"
+  },
+  "license": "ISC",
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/sdomotica/homebridge-BticinoLegrand2/issues"
+  },
+  "homepage": "https://github.com/sdomotica/homebridge-BticinoLegrand2#readme",
+  "dependencies": {
+    "request": "^2.65.0",
+    "async": "^2.0.1"
+  },
+
+  "maintainers": [
+    {
+      "name": "sdomotca",
+      "email": "sandro.dimarco@sdomotica.com"
+    }
+  ],
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/homebridge-creskit-1.1.7.tgz_1474468925890_0.6578604320529848"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/homebridge-creskit/-/homebridge-creskit-1.1.7.tgz"
+}
